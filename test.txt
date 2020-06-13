@@ -1,1 +1,1 @@
-Triggereing Jenkins Job by pushing changes in GITHUB !
+Triggering Jenkins Job by pushing changes in GITHUB !
