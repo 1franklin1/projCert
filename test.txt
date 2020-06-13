@@ -1,1 +1,1 @@
-Triggereing Jenkins Job buy pushing changes in GITHUB
+Triggereing Jenkins Job by pushing changes in GITHUB !
